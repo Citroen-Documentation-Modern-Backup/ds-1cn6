@@ -1,0 +1,123 @@
+{
+ "ref": "050008922563B",
+ "refDisplay": "0500 08 922563B",
+ "title": "ARMATURE SIEGE AV - GLISSIERE - CARTER",
+ "nature": "",
+ "applicability": "CONDUITE A DROITE ET MAINTIENS LOMBAIRE ET LATERAL FIXE CONDUCTEUR ET SAC GONFLABLE LATERAL AV ET REHAUSSE CONDUCTEUR REGLAGE PARALLELE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DA3&B0F=B0F6Q",
+   "fctId": "FCT0219"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DA3&B0F=B0F6Q",
+   "fctId": "FCT0333"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DA3&B0F=B0F2N",
+   "fctId": "FCT0219"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DA3&B0F=B0F2N",
+   "fctId": "FCT0333"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DA3&B0F=B0F2P",
+   "fctId": "FCT0219"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DA3&B0F=B0F2P",
+   "fctId": "FCT0333"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DA3&B0F=B0F4Y",
+   "fctId": "FCT0219"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DA3&B0F=B0F4Y",
+   "fctId": "FCT0333"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DA3&B0F=B0F2Z",
+   "fctId": "FCT0219"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DA3&B0F=B0F2Z",
+   "fctId": "FCT0333"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DA3&B0F=B0F2V",
+   "fctId": "FCT0219"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DA3&B0F=B0F2V",
+   "fctId": "FCT0333"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DA3&B0F=B0F5C",
+   "fctId": "FCT0219"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DA3&B0F=B0F5C",
+   "fctId": "FCT0333"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DA3&B0F=B0F6X",
+   "fctId": "FCT0219"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DA3&B0F=B0F6X",
+   "fctId": "FCT0333"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DA3&B0F=B0F2J",
+   "fctId": "FCT0219"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DA3&B0F=B0F2J",
+   "fctId": "FCT0333"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DA3&B0F=B0F2X",
+   "fctId": "FCT0219"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DA3&B0F=B0F2X",
+   "fctId": "FCT0333"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DA3&B0F=B0F2U",
+   "fctId": "FCT0219"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DA3&B0F=B0F2U",
+   "fctId": "FCT0333"
+  }
+ ]
+}

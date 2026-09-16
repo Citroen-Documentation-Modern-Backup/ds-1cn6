@@ -1,0 +1,88 @@
+{
+ "ref": "050004371121",
+ "refDisplay": "0500 04 371121",
+ "title": "TRANSMISSION TRANSVERSALE",
+ "nature": "",
+ "applicability": "BVM MA ET DIFFERENTIEL RENFORCE ET ANTI-BLOCAGE ROUE JUSQU’A OPR 07762",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DC5&B0F=B0F6Q",
+   "fctId": "FCT0022"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DC5&B0F=B0F6G",
+   "fctId": "FCT0022"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DC5&B0F=B0F2N",
+   "fctId": "FCT0022"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DC5&B0F=B0F2P",
+   "fctId": "FCT0022"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DC5&B0F=B0F4Y",
+   "fctId": "FCT0022"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DC5&B0F=B0F2Z",
+   "fctId": "FCT0022"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DC5&B0F=B0F2V",
+   "fctId": "FCT0022"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DC5&B0F=B0F5C",
+   "fctId": "FCT0022"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DC5&B0F=B0F6X",
+   "fctId": "FCT0022"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DC5&B0F=B0F2J",
+   "fctId": "FCT0022"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DC5&B0F=B0F2X",
+   "fctId": "FCT0022"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DC5&B0F=B0F2Q",
+   "fctId": "FCT0022"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DCE&B0F=B0F6Q",
+   "fctId": "FCT0022"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DCE&B0F=B0F5A",
+   "fctId": "FCT0022"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DCE&B0F=B0F2V",
+   "fctId": "FCT0022"
+  }
+ ]
+}

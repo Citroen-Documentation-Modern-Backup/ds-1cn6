@@ -1,0 +1,73 @@
+{
+ "ref": "050003434435",
+ "refDisplay": "0500 03 434435",
+ "title": "BRAS BUTEES MOYEUX ROULEMENTS ARRIERE",
+ "nature": "",
+ "applicability": "SUSPENSION RENFORCEE AV ET AR",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DC5&B0F=B0F6Q",
+   "fctId": "FCT0030"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DC5&B0F=B0F6G",
+   "fctId": "FCT0030"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DC5&B0F=B0F2N",
+   "fctId": "FCT0030"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DC5&B0F=B0F2P",
+   "fctId": "FCT0030"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DC5&B0F=B0F4Y",
+   "fctId": "FCT0030"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DC5&B0F=B0F2Z",
+   "fctId": "FCT0030"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DC5&B0F=B0F2V",
+   "fctId": "FCT0030"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DC5&B0F=B0F5C",
+   "fctId": "FCT0030"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DC5&B0F=B0F6X",
+   "fctId": "FCT0030"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DC5&B0F=B0F2J",
+   "fctId": "FCT0030"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DC5&B0F=B0F2X",
+   "fctId": "FCT0030"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DC5&B0F=B0F2Q",
+   "fctId": "FCT0030"
+  }
+ ]
+}

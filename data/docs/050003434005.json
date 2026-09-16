@@ -1,0 +1,68 @@
+{
+ "ref": "050003434005",
+ "refDisplay": "0500 03 434005",
+ "title": "AMORTISSEURS SUSPENSION AVANT",
+ "nature": "",
+ "applicability": "MOTEUR TYPE TU/TUD ET SUSPENSION NORMALE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DAE&B0F=B0F6Q",
+   "fctId": "FCT0028"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DAE&B0F=B0F6G",
+   "fctId": "FCT0028"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DAE&B0F=B0F5A",
+   "fctId": "FCT0028"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DAE&B0F=B0F2V",
+   "fctId": "FCT0028"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DAD&B0F=B0F2V",
+   "fctId": "FCT0028"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DAD&B0F=B0F5C",
+   "fctId": "FCT0028"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DAD&B0F=B0F2J",
+   "fctId": "FCT0028"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DAD&B0F=B0F2X",
+   "fctId": "FCT0028"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DCE&B0F=B0F6Q",
+   "fctId": "FCT0028"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DCE&B0F=B0F5A",
+   "fctId": "FCT0028"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DCE&B0F=B0F2V",
+   "fctId": "FCT0028"
+  }
+ ]
+}

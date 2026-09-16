@@ -1,0 +1,88 @@
+{
+ "ref": "050007844910A",
+ "refDisplay": "0500 07 844910A",
+ "title": "VOLET AR VITRE ENJOLIVEUR",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DC5&B0F=B0F6Q",
+   "fctId": "FCT0117"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DC5&B0F=B0F6G",
+   "fctId": "FCT0117"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DC5&B0F=B0F2N",
+   "fctId": "FCT0117"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DC5&B0F=B0F2P",
+   "fctId": "FCT0117"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DC5&B0F=B0F4Y",
+   "fctId": "FCT0117"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DC5&B0F=B0F2Z",
+   "fctId": "FCT0117"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DC5&B0F=B0F2V",
+   "fctId": "FCT0117"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DC5&B0F=B0F5C",
+   "fctId": "FCT0117"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DC5&B0F=B0F6X",
+   "fctId": "FCT0117"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DC5&B0F=B0F2J",
+   "fctId": "FCT0117"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DC5&B0F=B0F2X",
+   "fctId": "FCT0117"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DC5&B0F=B0F2Q",
+   "fctId": "FCT0117"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DCE&B0F=B0F6Q",
+   "fctId": "FCT0117"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DCE&B0F=B0F5A",
+   "fctId": "FCT0117"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DCE&B0F=B0F2V",
+   "fctId": "FCT0117"
+  }
+ ]
+}

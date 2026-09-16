@@ -1,0 +1,18 @@
+{
+ "ref": "050004371123A",
+ "refDisplay": "0500 04 371123A",
+ "title": "TRANSMISSION TRANSVERSALE",
+ "nature": "",
+ "applicability": "BVM MA ET DIFFERENTIEL RENFORCE ET ANTI-BLOCAGE ROUE DEPUIS OPR 07763",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DC5&B0F=B0F6G",
+   "fctId": "FCT0022"
+  }
+ ]
+}

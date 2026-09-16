@@ -1,0 +1,23 @@
+{
+ "ref": "050001330105",
+ "refDisplay": "0500 01 330105",
+ "title": "BOITE DE VITESSES AUTOMATIQUE",
+ "nature": "",
+ "applicability": "BVA 4HP14 ET CP 17 X 65",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DA5&B0F=B0F2Q",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DC5&B0F=B0F2Q",
+   "fctId": "FCT0017"
+  }
+ ]
+}

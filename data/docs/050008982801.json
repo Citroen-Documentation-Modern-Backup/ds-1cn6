@@ -1,0 +1,33 @@
+{
+ "ref": "050008982801",
+ "refDisplay": "0500 08 982801",
+ "title": "GARNITURE DE PORTE LATERALE AV BATTANTE",
+ "nature": "",
+ "applicability": "TEP GRAIN PACIFIQUE \"TF\"",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DAE&B0F=B0F6Q",
+   "fctId": "FCT0135"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DAE&B0F=B0F6G",
+   "fctId": "FCT0135"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DAE&B0F=B0F5A",
+   "fctId": "FCT0135"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DAE&B0F=B0F2V",
+   "fctId": "FCT0135"
+  }
+ ]
+}

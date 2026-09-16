@@ -1,0 +1,84 @@
+{
+ "ref": "1CN603056486",
+ "refDisplay": "1CN6 0 305 6486",
+ "title": "AILE AV + PORTE + PANNEAU DE COTE",
+ "nature": "",
+ "applicability": "(N01G) XSARA BERLINE 3PTES INJECTION TU3JP ESSENCE SANS PLOMB OU (N00R) XSARA BERLINE 3PTES INJECTION TU3JP GPL+ESSENCE SANS PLOMB",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DA3&B0F=B0F6Q",
+   "fctId": "FCT0104"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DA3&B0F=B0F2N",
+   "fctId": "FCT0104"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DA3&B0F=B0F2P",
+   "fctId": "FCT0104"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DA3&B0F=B0F4Y",
+   "fctId": "FCT0104"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DA3&B0F=B0F2Z",
+   "fctId": "FCT0104"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DA3&B0F=B0F2V",
+   "fctId": "FCT0104"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DA3&B0F=B0F5C",
+   "fctId": "FCT0104"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DA3&B0F=B0F6X",
+   "fctId": "FCT0104"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DA3&B0F=B0F2J",
+   "fctId": "FCT0104"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DA3&B0F=B0F2X",
+   "fctId": "FCT0104"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DA3&B0F=B0F2U",
+   "fctId": "FCT0104"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DAE&B0F=B0F6Q",
+   "fctId": "FCT0104"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DAE&B0F=B0F5A",
+   "fctId": "FCT0104"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DAE&B0F=B0F2V",
+   "fctId": "FCT0104"
+  }
+ ]
+}

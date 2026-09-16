@@ -1,0 +1,28 @@
+{
+ "ref": "050001114305",
+ "refDisplay": "0500 01 114305",
+ "title": "CARTER DE DISTRIBUTION BOUCHONS",
+ "nature": "",
+ "applicability": " JUSQU’A OPR 07874",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DA3&B0F=B0F2N",
+   "fctId": "FCT0007"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DA5&B0F=B0F2N",
+   "fctId": "FCT0007"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DC5&B0F=B0F2N",
+   "fctId": "FCT0007"
+  }
+ ]
+}

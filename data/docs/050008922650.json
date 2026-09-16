@@ -1,0 +1,33 @@
+{
+ "ref": "050008922650",
+ "refDisplay": "0500 08 922650",
+ "title": "MATELASSURE ASSISE AV - COIFFE",
+ "nature": "",
+ "applicability": "TEP GRAIN PACIFIQUE \"TF\"",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DAE&B0F=B0F6Q",
+   "fctId": "FCT0220"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DAE&B0F=B0F6G",
+   "fctId": "FCT0220"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DAE&B0F=B0F5A",
+   "fctId": "FCT0220"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DAE&B0F=B0F2V",
+   "fctId": "FCT0220"
+  }
+ ]
+}

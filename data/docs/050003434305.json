@@ -1,0 +1,53 @@
+{
+ "ref": "050003434305",
+ "refDisplay": "0500 03 434305",
+ "title": "AMORTISSEURS SUSPENSION ARRIERE",
+ "nature": "",
+ "applicability": "MOTEUR TYPE TU/TUD ET SUSPENSION NORMALE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DAE&B0F=B0F6Q",
+   "fctId": "FCT0032"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DAE&B0F=B0F6G",
+   "fctId": "FCT0032"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DAE&B0F=B0F5A",
+   "fctId": "FCT0032"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DAE&B0F=B0F2V",
+   "fctId": "FCT0032"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DAD&B0F=B0F2V",
+   "fctId": "FCT0032"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DAD&B0F=B0F5C",
+   "fctId": "FCT0032"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DAD&B0F=B0F2J",
+   "fctId": "FCT0032"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DAD&B0F=B0F2X",
+   "fctId": "FCT0032"
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "ref": "B1HM2YP0",
+ "refDisplay": "B1HM2YP0",
+ "title": "Apprentissage : CPH ou transpondeur et calculateur de contrôle moteur",
+ "nature": "Procédure d’intervention",
+ "applicability": "SYSTEME INJECTION BOSCH ET TRANSPONDEUR",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DA3&B0F=B0F6X",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DA3&B0F=B0F6X",
+   "fctId": "FCT0324"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DA5&B0F=B0F6X",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DA5&B0F=B0F6X",
+   "fctId": "FCT0324"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DC5&B0F=B0F6X",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DC5&B0F=B0F6X",
+   "fctId": "FCT0324"
+  }
+ ]
+}

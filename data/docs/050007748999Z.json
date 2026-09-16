@@ -1,0 +1,78 @@
+{
+ "ref": "050007748999Z",
+ "refDisplay": "0500 07 748999Z",
+ "title": "PLANCHER CHARGE PANNEAU PROTECTION",
+ "nature": "",
+ "applicability": "PATROUILLE RADIO POLICE ESPAGNOLE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DA5&B0F=B0F6Q",
+   "fctId": "FCT0116"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DA5&B0F=B0F6G",
+   "fctId": "FCT0116"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DA5&B0F=B0F2N",
+   "fctId": "FCT0116"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DA5&B0F=B0F2P",
+   "fctId": "FCT0116"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DA5&B0F=B0F4Y",
+   "fctId": "FCT0116"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DA5&B0F=B0F2Z",
+   "fctId": "FCT0116"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DA5&B0F=B0F2V",
+   "fctId": "FCT0116"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DA5&B0F=B0F5C",
+   "fctId": "FCT0116"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DA5&B0F=B0F6X",
+   "fctId": "FCT0116"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DA5&B0F=B0F2S",
+   "fctId": "FCT0116"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DA5&B0F=B0F2J",
+   "fctId": "FCT0116"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DA5&B0F=B0F2X",
+   "fctId": "FCT0116"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DA5&B0F=B0F2Q",
+   "fctId": "FCT0116"
+  }
+ ]
+}

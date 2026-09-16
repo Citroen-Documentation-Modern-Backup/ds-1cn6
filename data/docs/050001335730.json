@@ -1,0 +1,28 @@
+{
+ "ref": "050001335730",
+ "refDisplay": "0500 01 335730",
+ "title": "LIGNE SELECTION PARKING",
+ "nature": "",
+ "applicability": "BVA AL4 DEPUIS OPR 08219",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DA3&B0F=B0F2N",
+   "fctId": "FCT0018"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DA5&B0F=B0F2N",
+   "fctId": "FCT0018"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DC5&B0F=B0F2N",
+   "fctId": "FCT0018"
+  }
+ ]
+}

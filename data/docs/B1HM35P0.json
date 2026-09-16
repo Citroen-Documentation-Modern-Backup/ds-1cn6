@@ -1,0 +1,35 @@
+{
+ "ref": "B1HM35P0",
+ "refDisplay": "B1HM35P0",
+ "title": "Apprentissage : CPH ou transpondeur et calculateur de contrôle moteur",
+ "nature": "Procédure d’intervention",
+ "applicability": "TRANSPONDEUR DEPUIS OPR 7875",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DA5&B0F=B0F2Q",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DA5&B0F=B0F2Q",
+   "fctId": "FCT0324"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DC5&B0F=B0F2Q",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DC5&B0F=B0F2Q",
+   "fctId": "FCT0324"
+  }
+ ]
+}

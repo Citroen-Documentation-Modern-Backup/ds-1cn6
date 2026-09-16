@@ -1,0 +1,33 @@
+{
+ "ref": "050008979630F",
+ "refDisplay": "0500 08 979630F",
+ "title": "GARNITURES INTERIEURES AR 2/3 PTES",
+ "nature": "",
+ "applicability": "TEP GRAIN PACIFIQUE \"TF\"",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DAE&B0F=B0F6Q",
+   "fctId": "FCT0234"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DAE&B0F=B0F6G",
+   "fctId": "FCT0234"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DAE&B0F=B0F5A",
+   "fctId": "FCT0234"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DAE&B0F=B0F2V",
+   "fctId": "FCT0234"
+  }
+ ]
+}

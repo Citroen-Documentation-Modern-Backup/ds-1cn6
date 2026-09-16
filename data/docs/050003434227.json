@@ -1,0 +1,23 @@
+{
+ "ref": "050003434227",
+ "refDisplay": "0500 03 434227",
+ "title": "BARRES TORSION AVANT RESSORT",
+ "nature": "",
+ "applicability": "SUSPENSION NORMALE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DA5&B0F=B0F2V",
+   "fctId": "FCT0027"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DA5&B0F=B0F2X",
+   "fctId": "FCT0027"
+  }
+ ]
+}

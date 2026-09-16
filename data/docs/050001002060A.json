@@ -1,0 +1,23 @@
+{
+ "ref": "050001002060A",
+ "refDisplay": "0500 01 002060A",
+ "title": "ENSEMBLE MOTEUR",
+ "nature": "",
+ "applicability": "DEPOL CEE 95 (MOTEUR)",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DAE&B0F=B0F5A",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DCE&B0F=B0F5A",
+   "fctId": "FCT0049"
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "ref": "E1AB3SP0",
+ "refDisplay": "E1AB3SP0",
+ "title": "Caractéristiques : éléments mécaniques ",
+ "nature": "Caractéristiques - identifications",
+ "applicability": "GPL+ESSENCE SANS PLOMB DEPUIS OPR 7742 JUSQU’A OPR 8687",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DA3&B0F=B0F2P",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DA5&B0F=B0F2P",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DC5&B0F=B0F2P",
+   "fctId": "FCT0010"
+  }
+ ]
+}

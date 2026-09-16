@@ -1,0 +1,38 @@
+{
+ "ref": "050001112001A",
+ "refDisplay": "0500 01 112001A",
+ "title": "CULASSE - COUVRE CULASSE",
+ "nature": "",
+ "applicability": "DEPOL 15-04 (MOTEUR) DEPUIS OPR 07610 JUSQU’A OPR 07874 OU DEPOL CEE 95 (MOTEUR) DEPUIS OPR 07610 JUSQU’A OPR 07874",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DA3&B0F=B0F6Q",
+   "fctId": "FCT0006"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DA5&B0F=B0F6Q",
+   "fctId": "FCT0006"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DAE&B0F=B0F6Q",
+   "fctId": "FCT0006"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DC5&B0F=B0F6Q",
+   "fctId": "FCT0006"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DCE&B0F=B0F6Q",
+   "fctId": "FCT0006"
+  }
+ ]
+}

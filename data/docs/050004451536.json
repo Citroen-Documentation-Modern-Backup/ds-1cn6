@@ -1,0 +1,23 @@
+{
+ "ref": "050004451536",
+ "refDisplay": "0500 04 451536",
+ "title": "FREINS ARRIERE TAMBOUR CYLINDRE SEGMENTS",
+ "nature": "",
+ "applicability": "TAMBOURS AR ET ANTI-BLOCAGE ROUE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DC5&B0F=B0F2V",
+   "fctId": "FCT0041"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DCE&B0F=B0F2V",
+   "fctId": "FCT0041"
+  }
+ ]
+}

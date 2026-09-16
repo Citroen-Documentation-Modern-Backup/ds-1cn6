@@ -1,0 +1,28 @@
+{
+ "ref": "050001332385",
+ "refDisplay": "0500 01 332385",
+ "title": "PRISE TACHYMETRIQUE BVA",
+ "nature": "",
+ "applicability": "BVA AL4 DEPUIS OPR 08219",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DA3&B0F=B0F2N",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DA5&B0F=B0F2N",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DC5&B0F=B0F2N",
+   "fctId": "FCT0017"
+  }
+ ]
+}

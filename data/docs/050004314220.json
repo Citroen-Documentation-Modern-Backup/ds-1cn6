@@ -1,0 +1,33 @@
+{
+ "ref": "050004314220",
+ "refDisplay": "0500 04 314220",
+ "title": "PEDALE EMBRAYAGE CABLE",
+ "nature": "",
+ "applicability": "BVM BE3 ET CONDUITE A DROITE JUSQU’A OPR 07972",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DA3&B0F=B0F2J",
+   "fctId": "FCT0016"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DA5&B0F=B0F2J",
+   "fctId": "FCT0016"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DAD&B0F=B0F2J",
+   "fctId": "FCT0016"
+  },
+  {
+   "ldp": "1CN6",
+   "variantKey": "B0D=B0DC5&B0F=B0F2J",
+   "fctId": "FCT0016"
+  }
+ ]
+}
