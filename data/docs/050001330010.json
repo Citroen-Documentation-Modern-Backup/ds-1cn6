@@ -1,18 +1,1 @@
-{
- "ref": "050001330010",
- "refDisplay": "0500 01 330010",
- "title": "BOITE DE VITESSES MECANIQUE",
- "nature": "",
- "applicability": "BVM BE3 ET CP 14 X 62 OU BVM BE3R ET CP 14 X 62",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CN6",
-   "variantKey": "B0D=B0DA3&B0F=B0F2U",
-   "fctId": "FCT0017"
-  }
- ]
-}
+{"ref":"050001330010","refDisplay":"0500 01 330010","title":"BOITE DE VITESSES MECANIQUE","nature":"","applicability":"BVM BE3 ET CP 14 X 62 OU BVM BE3R ET CP 14 X 62","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CN6","variantKey":"B0D=B0DA3&B0F=B0F2U","fctId":"FCT0017"}],"kind":"pr","appl":"{(?1CN6)(B0F2U)(DVQ12)(DCW34)}{(?1CN6)(B0F2U)(DVQ02)(DCW34)}","tree":["document",{},[["thesaurus",{"type":"10","code":"009390"},[]],["thesaurus",{"type":"10","code":"009391"},[]],["thesaurus",{"type":"22","code":"P0008663"},[]],["thesaurus",{"type":"21","code":"L1797444"},[]],["thesaurus",{"type":"21","code":"L1797447"},[]],["thesaurus",{"type":"21","code":"L1797448"},[]],["thesaurus",{"type":"21","code":"L1797445"},[]],["mpr",{"catal":"0500","grp":"67","grp2":"01","maj":"20111022","numfich":"330010"},[["appl",{},["{(?1CN6)(B0F2U)(DVQ12)(DCW34)}{(?1CN6)(B0F2U)(DVQ02)(DCW34)}"]],["sti",{"ident":"6701"},[]],["obspage",{"ident":"P0008663"},[]],["img",{"numfich":"00015980","path":"/img/pr/80/0001/00015980.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"009390","obsnfp":"LE-2010","ref":"0000222266","refpg":"2222 66"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CN6)(B0F2U)(DCW34)(DVQ02)/($,,7,9999999)/}"]],["obsligne",{"ident":"L1797444"},[]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CN6)(B0F2Q)(DCW34)(DVQ12)(%L1)/($,,1,08420)/}"]],["obsligne",{"ident":"L1797447"},[]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CN6)(B0F2Q)(DCW34)(DVQ12)/($1,08421,,)/}"]]]],["descomp",{},[["lib",{"langue":"01"},["CP 14X62 - CT 22X19"]]]],["reporg",{},[["monte",{},["TE32"]],["monte",{},["TD82"]],["monte",{},["TA55"]],["monte",{},["TB92"]],["monte",{},["TE47"]],["monte",{},["(TD82)"]],["monte",{},["CH52"]]]]]],["pr",{"codesi":"009391","ref":"00002223S4","refpg":"2223 S4"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CN6)(B0F2U)(DCW34)(DVQ02)/($7,0000001,1,08420)/(~2)}"]],["obsligne",{"ident":"L1797448"},[]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CN6)(B0F2Q)(DCW34)(DVQ12)/($1,08421,,)/(~2)}"]],["obsligne",{"ident":"L1797445"},[]]]],["descomp",{},[["lib",{"langue":"01"},["CP 14X62 - CT 22X19"]]]],["reporg",{},[["monte",{},["(TDH2)"]],["monte",{},["(TBJ2)"]],["monte",{},["TD82"]],["monte",{},["TB92"]],["monte",{},["TE47"]],["monte",{},["TBJ2"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"290, 103, 11","shape":"circle"},[]]]]]]]]]]}
